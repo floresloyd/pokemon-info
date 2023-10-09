@@ -1,0 +1,9 @@
+.bord {
+  border-style: solid;
+  border-color: blue;
+}
+
+.container {
+  max-width: 500px;
+  min-height: 500px;
+}

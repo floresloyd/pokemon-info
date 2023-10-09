@@ -1,7 +1,12 @@
-const Card = () => {
+/* eslint-disable react/prop-types */
+//import { useState } from "react";
+
+const Card = (props) => {
   return (
-    <div>
-      <h1> CARD </h1>
+    <div className="bord card">
+      <h1> {props.name} </h1>
+      <h1> {props.type} </h1>
+      <img src={props.image} alt="pokemon" />
     </div>
   );
 };

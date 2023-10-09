@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+
+.bord {
+  border-style: solid;
+}
+
+.container {
+  max-width: 1000px;
+  min-height: 500px;
+  margin: 100px;
+  padding: 100px;
+}

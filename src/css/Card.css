@@ -1,0 +1,9 @@
+.bord {
+  border-style: dotted;
+  border-color: red;
+}
+
+.card {
+  max-width: 500px;
+  min-height: 500px;
+}
