@@ -5,4 +5,24 @@
 .container {
   max-width: 500px;
   min-height: 500px;
+  display: flex; /* Use flexbox for centering */
+  flex-direction: column; /* Stack items vertically */
+  justify-content: center; /* Center items vertically */
+  align-items: center; /* Center items horizontally */
+}
+
+/* Additional styles for the h1 and ul elements */
+.container h1 {
+  margin-bottom: 20px; /* Add margin below the heading */
+  text-align: center; /* Center the text */
+}
+
+.container ul {
+  list-style: none; /* Remove list bullets */
+  padding: 0; /* Remove default list padding */
+  text-align: center; /* Center the list items */
+}
+
+.container li {
+  margin-bottom: 10px; /* Add spacing between list items */
 }
