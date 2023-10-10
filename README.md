@@ -28,11 +28,15 @@ The following **additional** features are implemented:
 - [✔️] Mobile Friendly
 - [✔️] Favicon and Website name + Background
 
+## Snippets
+
+<img src='src/assets/start.png' title='start-image' width='' alt='snippet' />
+<img src='src/assets/functionality.png' title='functionality-image' width='' alt='snippet' />
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='src/assets/Pokemon-Info-Walkthrough.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Watch the Video](https://clipchamp.com/watch/Wr7sB5ZxXDd)
 
 <!-- Replace this with whatever GIF tool you used! -->
 
