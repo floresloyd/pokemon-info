@@ -35,10 +35,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's the walkthrough link:
 [Watch the Video](https://clipchamp.com/watch/Wr7sB5ZxXDd)
 
 <!-- Replace this with whatever GIF tool you used! -->
+<img src="src/assets/pokegif.gif" alt="pokegif" width="200" align="center">
 
 GIF created with ...
 
