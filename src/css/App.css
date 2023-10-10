@@ -1,8 +1,11 @@
+/* app.css */
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: #5c5c5c;
 }
 
 .logo {
@@ -46,8 +49,15 @@
 }
 
 .container {
-  max-width: 1000px;
-  min-height: 500px;
-  margin: 100px;
-  padding: 100px;
+  /* Remove max-width and min-height, and adjust margin and padding as needed */
+  margin: 20px; /* Adjust margin as needed */
+  padding: 20px; /* Adjust padding as needed */
+}
+
+/* Use media queries to control the layout */
+@media screen and (max-width: 768px) {
+  .container {
+    margin: 10px; /* Adjust margin for smaller screens */
+    padding: 10px; /* Adjust padding for smaller screens */
+  }
 }

@@ -1,4 +1,5 @@
 /* eslint-disable react/prop-types */
+import "../css/Ban.css";
 
 const Ban = ({ bannedTypes, onTypeUnban }) => {
   return (

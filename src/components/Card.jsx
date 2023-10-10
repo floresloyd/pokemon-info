@@ -1,4 +1,5 @@
 /* eslint-disable react/prop-types */
+import "../css/Card.css";
 
 const Card = (props) => {
   const { name, types, image, gen, onTypeBan, id, baseStat, stab } = props;

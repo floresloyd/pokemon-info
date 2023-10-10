@@ -1,9 +1,8 @@
 .bord {
   border-style: dotted;
   border-color: green;
+  margin: 10px 10px 10px 10px;
 }
 
 .container {
-  max-width: 500px;
-  min-height: 500px;
 }

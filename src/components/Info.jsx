@@ -3,6 +3,7 @@
 import { useState } from "react";
 import axios from "axios";
 import Card from "./Card.jsx";
+import "../css/Info.css";
 
 const Info = ({ onPokemonEncounter, onTypeBan }) => {
   const [currentPokemon, setCurrentPokemon] = useState(null);

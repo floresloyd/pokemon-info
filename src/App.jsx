@@ -33,7 +33,7 @@ function App() {
   };
 
   return (
-    <div className="bord container d-flex align-items-center">
+    <div className="bord container d-lg-flex align-items-center">
       <Seen
         encounteredPokemon={encounteredPokemon}
         encounteredGenerations={encounteredGenerations}

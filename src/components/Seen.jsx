@@ -1,4 +1,5 @@
 /* eslint-disable react/prop-types */
+import "../css/Seen.css";
 
 const Seen = ({ encounteredPokemon }) => {
   const reversedPokemon = [...encounteredPokemon].reverse();
